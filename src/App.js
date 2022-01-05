@@ -7,12 +7,14 @@ const App = () => {
 
   function getData() {
     axios
-      .get(`https://cors-anywhere.herokuapp.com/https://yomamma-api.herokuapp.com/jokes`)
+      .get(
+        `https://cors-anywhere.herokuapp.com/https://yomomma-api.herokuapp.com/jokes`
+      )
       .then((response) => setJoke(response.data.joke));
   }
 
   const handleClick = () => {
-    getData();
+    getData()
   };
 
   return (

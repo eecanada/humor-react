@@ -15,10 +15,11 @@ body {
 h1 {
   text-align: center;
   color: white;
+  background-color: #8ad196;
 }
 
 button {
-  background-color: transparent;
+  background-color: #8ad196;
   border: 1px solid white;
   color: white;
   padding: 15px 30px;

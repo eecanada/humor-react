@@ -19,8 +19,8 @@ const App = () => {
 
   return (
     <div className="joke">
-      <button onClick={handleClick}> Jokes </button>
       <h1>{joke}</h1>
+      <button onClick={handleClick}> Jokes </button>
     </div>
   );
 };

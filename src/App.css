@@ -21,7 +21,7 @@ button {
   background-color: transparent;
   border: 1px solid white;
   color: white;
-  padding: 10px 20px;
+  padding: 15px 30px;
   cursor: pointer;
   transition: 300ms;
 }

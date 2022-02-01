@@ -12,7 +12,3 @@
 * HTML5
 * React
 
-
-# Getting Started 
-
-[Click to visit page](yom0mma.netlify.app/)
